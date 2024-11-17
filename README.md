@@ -6,4 +6,4 @@ The application utilizes the [Streamlit](https://streamlit.io/) framework to han
 
 ## Try the App!
 
-[![Streamlit App](https://genaidocreader-mv63a73ctgswepansejvk9.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://genaidocreader-mv63a73ctgswepansejvk9.streamlit.app/)
