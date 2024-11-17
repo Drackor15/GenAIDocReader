@@ -1,5 +1,7 @@
 streamlit>=1.26.0
 langchain
+langchain-community
+langchain-core
 openai
 chromadb
 tiktoken
